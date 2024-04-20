@@ -1,4 +1,4 @@
-- 👋 Hi, I'm a Fullstack Software (Java & SQL & JDBC) Developer
+- 👋 Hi, I'm a Fullstack Software (Java & SQL(Postgre) & JDBC & Hibernate) Developer
 - 👀 I’m interested in learning new technologies.
 - 🌱 I’m currently learning improving my ways of Problem Solving with programming
 
