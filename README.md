@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan Akyar</h1>
-<h3 align="center">👋 Hi, I'm a Fullstack Software (Java & SQL(Postgre) & JDBC & Hibernate) Developer,</h3>
+<h3 align="center">👋 Hi, I'm a Fullstack Software (Java & Next.Js & SQL(Postgre) & JDBC & Hibernate) Developer,</h3>
 
 - 🔭 I’m currently working on **Real Estate Project**
 
