@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gökhan Akyar</h1>
 <h3 align="center">👋 Hi, I'm a Fullstack Software (Java & Next.Js & SQL(Postgre) & JDBC & Hibernate) Developer,</h3>
 
-- 🔭 I’m currently working on **Real Estate Project**
+- 🔭 I’m currently working on **Real Estate and Foreign Trade Project**
 
 - 📫 How to reach me **gakyar98@gmail.com**
 
